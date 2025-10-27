@@ -1,4 +1,4 @@
 // src/app/api/route.ts
 export async function GET() {
-  return Response.json({ message: "Hello, World!" });
+  return Response.json({ message: "Hello, World!2" });
 }
